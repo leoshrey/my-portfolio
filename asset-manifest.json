@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.360d6082.css",
-    "main.js": "/my-portfolio/static/js/main.1bdf3945.js",
+    "main.js": "/my-portfolio/static/js/main.67c0b3e3.js",
     "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/my-dp-3.svg": "/my-portfolio/static/media/my-dp-3.82322bb8de523f0b017eb8fcc05d5e85.svg",
     "static/media/spiderman-illustration.png": "/my-portfolio/static/media/spiderman-illustration.f0916c5ed3b77d66daee.png",
-    "static/media/Coldplay_-_Fix_You.mp3": "/my-portfolio/static/media/Coldplay_-_Fix_You.6d1273f867974febed08.mp3",
     "static/media/doctor-strange-illustration.png": "/my-portfolio/static/media/doctor-strange-illustration.69f5620a311e64ce6161.png",
     "static/media/jal-mahal-1.jpg": "/my-portfolio/static/media/jal-mahal-1.9ebc6c77d15cacb3c7eb.jpg",
     "static/media/egret-1.JPG": "/my-portfolio/static/media/egret-1.cdd0405c8dfc1a6c31d1.JPG",
@@ -53,11 +52,11 @@
     "index.html": "/my-portfolio/index.html",
     "static/media/nav-icon1.svg": "/my-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.360d6082.css.map": "/my-portfolio/static/css/main.360d6082.css.map",
-    "main.1bdf3945.js.map": "/my-portfolio/static/js/main.1bdf3945.js.map",
+    "main.67c0b3e3.js.map": "/my-portfolio/static/js/main.67c0b3e3.js.map",
     "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.360d6082.css",
-    "static/js/main.1bdf3945.js"
+    "static/js/main.67c0b3e3.js"
   ]
 }
